@@ -25,7 +25,7 @@ As they say, your thoughts are what you read—and we’ve been consuming noisy 
 </a>
 
 <p>
-<a href="https://github.com/RSSNext/Follow">
+<a href="https://github.com/DIYgod/RSSHub">
 <strong>RSSHub - Everything is RSSible</strong>
 </a>
 </p>
