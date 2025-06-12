@@ -32,4 +32,4 @@ As they say, your thoughts are what you read—and we’ve been consuming noisy 
 
 RSSHub is the world's largest RSS network, consisting of over 5,000 global instances.
 
-<img src="https://img.shields.io/github/stars/DIYgod/RSSHub?color=ffcb47&labelColor=black&style=flat-square&logo=github" alt="RSSHub" />
+<a href="https://github.com/DIYgod/RSSHub/stargazers"><img src="https://img.shields.io/github/stars/DIYgod/RSSHub?color=ffcb47&labelColor=black&style=flat-square&logo=github" alt="RSSHub" />
