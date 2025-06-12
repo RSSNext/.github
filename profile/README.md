@@ -5,7 +5,7 @@ RSS and the open information it represents will never die, because we steadfast 
 ### 🧡 Our Projects
 
 <a href="https://github.com/RSSNext/Follow">
-<img src="https://github.com/RSSNext/follow/assets/41265413/c6c02ad5-cddc-46f5-8420-a47afe1c82fe" alt="Follow" width="40"> />
+<img src="https://github.com/RSSNext/follow/assets/41265413/c6c02ad5-cddc-46f5-8420-a47afe1c82fe" alt="Follow" width="40" />
 </a>
 
 <p>
@@ -22,7 +22,7 @@ As they say, your thoughts are what you read—and we’ve been consuming noisy 
 ---
 
 <a href="https://github.com/DIYgod/RSSHub">
-<img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="40"> />
+<img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="40" />
 </a>
 
 <p>
