@@ -16,7 +16,8 @@ RSS and the open information it represents will never die, because we steadfast 
 
 As they say, your thoughts are what you read—and we’ve been consuming noisy feeds for too long! Follow organizes content into one timeline, keeping you updated on what matters, noise-free. Share lists, explore collections, and enjoy distraction-free browsing.
 
-<a href="https://github.com/RSSNext/Folo/stargazers"><img src="https://img.shields.io/github/stars/RSSNext/Folo?color=ffcb47&labelColor=black&style=flat-square&logo=github" alt="Folo" />
+<a href="https://github.com/RSSNext/Folo/stargazers"><img src="https://img.shields.io/github/stars/RSSNext/Folo?color=ffcb47&labelColor=black&style=flat-square&logo=github" alt="Folo" 
+<a/>
 
 ---
 
@@ -32,4 +33,5 @@ As they say, your thoughts are what you read—and we’ve been consuming noisy 
 
 RSSHub is the world's largest RSS network, consisting of over 5,000 global instances.
 
-<a href="https://github.com/DIYgod/RSSHub/stargazers"><img src="https://img.shields.io/github/stars/DIYgod/RSSHub?color=ffcb47&labelColor=black&style=flat-square&logo=github" alt="RSSHub" />
+<a href="https://github.com/DIYgod/RSSHub/stargazers"><img src="https://img.shields.io/github/stars/DIYgod/RSSHub?color=ffcb47&labelColor=black&style=flat-square&logo=github" alt="RSSHub" 
+<a/>
